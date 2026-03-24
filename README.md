@@ -45,11 +45,8 @@ I built this Java app to help lecturers track student marks instead of messy Exc
 2.students.dat = my save file   
 
 Musa Mhlambi
-
 2nd Year IT Student @ Rosebank College
-
 Pretoria West, Gauteng
-
 📧 m.mhlambi68@gmail.com
 
 
